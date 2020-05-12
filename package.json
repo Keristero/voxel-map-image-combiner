@@ -1,0 +1,23 @@
+{
+  "name": "voxel-map-image-combiner",
+  "version": "1.0.0",
+  "description": "Run this exe in command line with a path to a voxelmap image folder, see \"exampleRunScript.bat\" for usage.\r For some reason you also need \"output.png\" to already exist in the same directory as \"app.exe\"",
+  "main": "main.js",
+  "dependencies": {
+    "image-data-uri": "^2.0.1",
+    "puppet-canvas": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keristero/voxel-map-image-combiner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keristero/voxel-map-image-combiner/issues"
+  },
+  "homepage": "https://github.com/Keristero/voxel-map-image-combiner#readme"
+}
