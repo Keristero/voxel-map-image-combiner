@@ -12,4 +12,4 @@ Removed the EXE because I could not package it's dependencies with it, sorry
 ### Notes
 - If your voxelmap image directory does not exist, open `\mods\mamiyaotaru\voxelmap.properties` and add the line `Output Images:true`, after that load up your world and it will start saving images to the directory.
 
-!["Sample output png"](https://github.com/Keristero/voxel-map-image-combiner/blob/master/sampleOutput.png)
+![Sample output png](./sampleOutput.png)
