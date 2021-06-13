@@ -76,5 +76,6 @@ fs.readdir(targetFolder, async(err, files) => {
             console.log(err);
         }
         console.log('done')
+        process.exit(0)
     });
 })
